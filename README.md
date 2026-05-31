@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Farhan+%F0%9F%91%8B;Cybersecurity+Analyst+%26+Researcher;Web+App+VAPT+%7C+Bug+Bounty+Hunter;Security+Tool+Dev+%7C+CTI+Analyst)](https://github.com/7H3CYF4RX)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=7H3CYF4RX&label=Profile+Views&color=70A5FD&style=flat-square)](https://github.com/7H3CYF4RX)
-[![GitHub followers](https://img.shields.io/github/followers/7H3CYF4RX?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117)](https://github.com/7H3CYF4RX?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-farhan-cysec)
+[![CEH](https://img.shields.io/badge/CEH%20V13-Certified-FF6633?style=flat-square&logo=ec-council&logoColor=white)](https://github.com/7H3CYF4RX)
 
 </div>
 
@@ -99,10 +100,10 @@ print(me.motto())   # Hack the planet — responsibly 🌐
 <div align="center">
 
 <a href="https://github.com/7H3CYF4RX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7H3CYF4RX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7H3CYF4RX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400"/>
 </a>
 <a href="https://github.com/7H3CYF4RX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7H3CYF4RX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7H3CYF4RX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"/>
 </a>
 
 </div>
@@ -253,4 +254,3 @@ print(me.motto())   # Hack the planet — responsibly 🌐
 </div>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://github.com/7H3CYF4RX)
-: ...
