@@ -6,7 +6,7 @@
 <!-- ██║  ██║███████╗██╔╝ ██╗╚██████╔╝██║ ╚████║██║  ██║██╗ -->
 <!-- ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝ -->
 <!-- TARGET: 7H3CYF4RX :: Karunagappally, Kerala, India      -->
-<!-- STATUS: ONLINE :: THREAT LEVEL: ETHICAL                  -->
+<!-- STATUS: ONLINE :: THREAT LEVEL: ETHICAL                  --> 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
